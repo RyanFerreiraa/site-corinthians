@@ -58,6 +58,11 @@ section .container {
 .brands-list li {
     display: inline;
     margin-right: 1px;
+    text-decoration: none;
+}
+
+.brands-list li a {
+    text-decoration: none;
 }
 
 section {
