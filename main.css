@@ -15,7 +15,7 @@ footer{
 
 header {
     padding: 10px 0px;
-    background-color: #182c61;
+    background-color: #000;
     color: #ecf0f1;
 }
 
@@ -57,12 +57,12 @@ section .container {
 
 .brands-list li {
     display: inline;
-    margin-right: 8px;
+    margin-right: 1px;
 }
 
 section {
     padding: 24px;
-    color: #182c61
+    color: #000
 }
 
 section h2 {
@@ -73,8 +73,10 @@ section p {
     margin-bottom: 8px;
 }
 
-.store-front {
+.neo-quimica-arena {
     margin-right: 32px;
+    height: 640px;
+    width: 480px;
 }
 
 .social-links img {
@@ -118,22 +120,22 @@ section h3 {
 }
 
 form button {
-    background-color:  #182c61;
+    background-color:  #000;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #392e9e;
+    background-color: #4e4e4e;
 }
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #000;
 }
 
 footer {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #000;
     color: #ecf0f1;
     text-align: center;
 }
